@@ -49,7 +49,7 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,github,git" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,mysql" />
 </div>
 <!--<hr/>
